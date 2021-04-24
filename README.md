@@ -9,5 +9,6 @@ APCC Holdings Ltd is a for-profit institution dedicated to maxing gainz in the c
 
 # Interesting sites:
 1. https://hummingbot.io/. Potential starting point for buildling an automated trading bot
-2. https://www.dextools.io/. Information about crypto pair trades
-3. https://lunarcrush.com/markets?rpp=50. Social media analytics of crypto currencies
+2. https://github.com/CoinAlpha/hummingbot. Github repo for Hummingbot
+3. https://www.dextools.io/. Information about crypto pair trades
+4. https://lunarcrush.com/markets?rpp=50. Social media analytics of crypto currencies
