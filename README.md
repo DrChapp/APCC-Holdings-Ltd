@@ -12,3 +12,5 @@ APCC Holdings Ltd is a for-profit institution dedicated to maxing gainz in the c
 2. https://github.com/CoinAlpha/hummingbot. Github repo for Hummingbot
 3. https://www.dextools.io/. Information about crypto pair trades
 4. https://lunarcrush.com/markets?rpp=50. Social media analytics of crypto currencies
+5. https://glassnode.com/ On-chain data
+6. https://developers.shrimpy.io/ Current and historical crypto pair pricing
